@@ -2,6 +2,7 @@
 Rendering scenes with the RayCasting method like in Wolfenstein 3D.  
 Стек: C, Make, and used graphic library minilibx.  
 Works on MacOS only (but not with M1-CPU).  
+Командный проект с gulwyck.
 
 Отрисовка сцены в псевдо 3D методом Рейкастинга, по аналогии как в игре Вольфенштейн 3D.  
 Загружается карта - сцена в двумерном формате и отрисовывается имитируя 3D сцену.  
