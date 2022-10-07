@@ -20,3 +20,5 @@ Works on MacOS only (but not with M1-CPU).
 *	M - включить/отключить обзор мышью (в бонусе).
 *	стрелки вверх, вниз - изменение угла обзора персонажа (FOV) (в бонусе).
 *	ESC или нажатие на крестик - выход из программы.
+
+![alt-текст](https://github.com/malakaev/Cub3D/blob/main/cub3d.gif "cub3d")
